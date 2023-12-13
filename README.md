@@ -6,7 +6,7 @@ Course title: ***Taller de Metaverso: Realidad virtual***
 The goal of the workshop is to bring undergraduate students the opportunity to immerse themselves in a unique experience that will allow them to interact with a
 virtual environment in a whole new way.
 
-The course is supported **PDF guides** that consist in one guide for the course instructor and another guide for the student following this course 
+The course is supported by the **PDF guides** that consist in one guide for the course instructor and another guide for the student following this course 
 
 In addition to the above files, it is recomended to use a virtual reality headset. This headset is not provided as part of the course and should be acquired by the organizers of the workshop.
 
