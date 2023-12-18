@@ -1,14 +1,14 @@
 # Taller-de-Metaverso
 
 
-Course title: ***Taller de Metaverso: Realidad virtual***
+Workshop title: ***Taller de Metaverso: Realidad virtual***
 
 The goal of the workshop is to bring undergraduate students the opportunity to immerse themselves in a unique experience that will allow them to interact with a
 virtual environment in a whole new way.
 
-The course is supported by the **PDF guides** that consist in one guide for the course instructor and another guide for the student following this course 
+The workshop is supported by the **PDF guides** that consist in one guide for the instructor and another guide for the student following this workshop 
 
-In addition to the above files, it is recomended to use a virtual reality headset. This headset is not provided as part of the course and should be acquired by the organizers of the workshop.
+In addition to the above files, it is recomended to use a virtual reality headset. This headset is not provided as part of the workshop and should be acquired by the organizers of the workshop.
 
  
 
@@ -17,7 +17,7 @@ In addition to the above files, it is recomended to use a virtual reality headse
 ## About
 
 
-This course has been created by Dr. Toni Oller at [EETAC - UPC - BAMPLA](https://entel.upc.edu/es/actividades-investigadoras/bampla), in the frame of the TelecoRenta Proyect from the UNICO 5G Program.        
+This workshop has been created by Dr. Toni Oller at [EETAC - UPC - BAMPLA](https://entel.upc.edu/es/actividades-investigadoras/bampla), in the frame of the TelecoRenta Proyect from the UNICO 5G Program.        
 
 
 ## Contact
