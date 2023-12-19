@@ -26,7 +26,7 @@ This workshop has been created by Dr. Toni Oller at [EETAC - UPC - BAMPLA](https
 If you have any questions, feedback, or inquiries about the content on this repository, please feel free to reach out to our team using the following email address:
 
 
-- For technical inquiries: [antoni.oller@upc.edu](mailto:antoni.oller@upc.edu)
+- [antoni.oller@upc.edu](mailto:antoni.oller@upc.edu)
 
 
 
